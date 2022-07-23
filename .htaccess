@@ -1,0 +1,5 @@
+
+# HTID:18411952: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:18411952:
+DirectoryIndex main.php index.html index.htm index2.html

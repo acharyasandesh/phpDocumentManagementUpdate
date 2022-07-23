@@ -1,0 +1,9 @@
+.col-md-4{
+    margin-top: 10%;
+}
+.footer-title{
+    position: fixed; bottom: -5px; left:0px; right:0px; height:5%; padding-top: 5px;background-color:#F9F9F9; text-align: center;
+}
+.footer-author{
+    font-size:10px;padding-left: 5px;
+}
